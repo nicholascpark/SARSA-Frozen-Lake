@@ -1,9 +1,3 @@
-#! /usr/bin/env python
-__author__ = 'Ning Shi'
-__email__ = 'mrshininnnnn@gmail.com'
-
-
-# import dependency
 import gym # OpenAI Game Environment
 import gym.envs.toy_text # Customized Map
 import numpy as np
